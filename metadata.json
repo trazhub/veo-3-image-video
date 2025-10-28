@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Sketcher",
+  "description": "Upload a hand-drawn sketch and a descriptive prompt to generate a dynamic video animation using Google's Veo model. Choose your preferred aspect ratio and bring your static images to life.",
+  "requestFramePermissions": []
+}
